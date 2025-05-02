@@ -76,7 +76,7 @@ export default function Hero() {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-emerald-500 shadow-xl">
               <img
-                src="/IMG_8270-copy1?height=320&width=320"
+                src="/IMG_8270-copy1.svg?height=320&width=320"
                 alt="Mochammad Fikri"
                 className="w-full h-full object-cover"
               />

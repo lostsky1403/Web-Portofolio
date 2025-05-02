@@ -59,7 +59,7 @@ export default function Projects() {
       description:
         "Application that helps improve financial literacy and provides insights into spending patterns through anomaly detection.",
       tags: ["GCP", "Machine Learning", "Node.js", "React Native"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/SakuNusa-logo.svg?height=300&width=500",
       links: {
         github: "https://github.com/Rivalzy/SakuNusa",
         live: "#",
