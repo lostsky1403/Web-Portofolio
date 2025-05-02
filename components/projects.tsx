@@ -26,7 +26,7 @@ export default function Projects() {
       description:
         "Community-centric service dedicated to connecting individuals with health-related events and activities.",
       tags: ["React", "Node.js", "Express", "MongoDB"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/Sobat-sehat.png?height=300&width=500",
       links: {
         github: "https://github.com/lostsky1403/SobatSehat",
         live: "#",
@@ -59,7 +59,7 @@ export default function Projects() {
       description:
         "Application that helps improve financial literacy and provides insights into spending patterns through anomaly detection.",
       tags: ["GCP", "Machine Learning", "Node.js", "React Native"],
-      image: "/SakuNusa-logo.svg?height=300&width=500",
+      image: "/SakuNusa-logo.jpg?height=300&width=500",
       links: {
         github: "https://github.com/Rivalzy/SakuNusa",
         live: "#",
