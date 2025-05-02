@@ -15,7 +15,7 @@ export default function Projects() {
       title: "Tabunganku",
       description: "Transaction dashboard built with Laravel for tracking personal finances and savings.",
       tags: ["Laravel", "MySQL", "Tailwind CSS"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/Tabunganku.png?height=300&width=500",
       links: {
         github: "https://github.com/lostsky1403/Project_Kelompok_3",
         live: "#",
@@ -37,7 +37,7 @@ export default function Projects() {
       description:
         "Backend for a news portal with features for article management, user authentication, and content categorization.",
       tags: ["Node.js", "Express", "MongoDB"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/RestfulAPI.png?height=300&width=500",
       links: {
         github: "https://github.com/lostsky1403/Backend-2023/tree/SE02/UTS-RESTful-API-News",
         live: "#",
@@ -48,7 +48,7 @@ export default function Projects() {
       description:
         "Robust backend framework designed to streamline human resource management with features for employee data, performance tracking, and more.",
       tags: ["Laravel", "MySQL", "API"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/HRD.png?height=300&width=500",
       links: {
         github: "https://github.com/lostsky1403/Backend-2023/tree/SE02/UAS",
         live: "#",
